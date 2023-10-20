@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+![https://github.com/zhensherlock/zhensherlock](https://komarev.com/ghpvc/?username=zhensherlock&style=flat-square)
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhensherlock)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhensherlock&layout=compact&langs_count=10)](https://github.com/zhensherlock)
+
+[//]: # (![Metrics]&#40;https://metrics.lecoq.io/zhensherlock?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&#41;)
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **zhensherlock/zhensherlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
