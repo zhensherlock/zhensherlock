@@ -2,10 +2,10 @@
 
 ![https://github.com/zhensherlock/zhensherlock](https://komarev.com/ghpvc/?username=zhensherlock&style=flat-square)
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhensherlock&theme=dracula#gh-dark-mode-only)]()
+[//]: # ([![Michael's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=zhensherlock&theme=dracula#gh-dark-mode-only&#41;]&#40;&#41;)
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhensherlock#gh-light-mode-only)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhensherlock&layout=compact&langs_count=10&theme=dracula#gh-dark-mode-only)](https://github.com/zhensherlock)
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=zhensherlock&layout=compact&langs_count=10&theme=dracula#gh-dark-mode-only&#41;]&#40;https://github.com/zhensherlock&#41;)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhensherlock&layout=compact&langs_count=10)](https://github.com/zhensherlock)
 
 [//]: # (![Metrics]&#40;https://metrics.lecoq.io/zhensherlock?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&#41;)
