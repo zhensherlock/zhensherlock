@@ -11,8 +11,17 @@
 [//]: # (![Metrics]&#40;https://metrics.lecoq.io/zhensherlock?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&#41;)
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only)
-![](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+
+[//]: # (![]&#40;./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only&#41;)
+[//]: # (![]&#40;./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only&#41;)
+
+<p align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/zhensherlock/zhensherlock/main/profile-3d-contrib/profile-night-view.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhensherlock/zhensherlock/main/profile-3d-contrib/profile-green-animate.svg" />
+	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/zhensherlock/zhensherlock/main/profile-3d-contrib/profile-green-animate.svg" />
+	</picture>
+</p>
 
 <!--
 **zhensherlock/zhensherlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
