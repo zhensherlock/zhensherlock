@@ -2,7 +2,7 @@
 
 ![https://github.com/zhensherlock/zhensherlock](https://komarev.com/ghpvc/?username=zhensherlock&style=flat-square)
 
-<div style="display: grid;grid-template-columns: auto auto;grid-column-gap: 20px;justify-content: flex-start;">
+<p style="display: grid;grid-template-columns: auto auto;grid-column-gap: 20px;justify-content: flex-start;">
     <picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=zhensherlock&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zhensherlock" />
@@ -13,7 +13,7 @@
 	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhensherlock" />
 	  <img height="200px" alt="github profile contributions chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhensherlock" />
 	</picture>
-</div>
+</p>
 
 [//]: # ([![Michael's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=zhensherlock&bg_color=30,e96443,904e95&title_color=fff&text_color=fff#gh-light-mode-only&#41;])
 
