@@ -4,13 +4,9 @@
 
 <p>
     <picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=zhensherlock&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zhensherlock" />
 	  <img height="200px" alt="github profile contributions chart" src="https://github-readme-stats.vercel.app/api?username=zhensherlock&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 	</picture>
     <picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhensherlock&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhensherlock" />
 	  <img height="200px" alt="github profile contributions chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhensherlock&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 	</picture>
 </p>
